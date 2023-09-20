@@ -20,3 +20,10 @@ Future, to buy, devices
   - `Strg` 512 GB SSD
   - `OS  ` Windows 11 Home (+ Office Home Student)
   - `Vers` -
+
+
+## accessories
++ Switching Adapter
+  - LG ADS-18SG-19-3 19016G
+  - Input 100-240 V, ~50/60 Hz, max 0.6 A
+  - Output 19 V, 0.84 A
