@@ -23,6 +23,7 @@ Future, to buy, devices
 
 
 ## accessories
+![](lg-switching-adapter.png)
 + Switching Adapter
   - LG ADS-18SG-19-3 19016G
   - Input 100-240 V, ~50/60 Hz, max 0.6 A
